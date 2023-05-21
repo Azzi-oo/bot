@@ -2,7 +2,7 @@
 # bot
 from aiogram import Bot, Dispatcher, types, executor
 
-TOKEN = '6198687861:AAHXYEh4DacXEdslG_NFfVjan_fQHTs8HuE'
+TOKEN = ''
 
 import string
 import random
